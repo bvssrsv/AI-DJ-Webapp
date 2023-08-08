@@ -1,0 +1,39 @@
+body {
+    background: url("background.jpg");
+    color: white;
+    font-style: oblique;
+}
+
+#left img {
+width: 150px;
+height: 150px;
+border-radius: 100px;
+}
+
+#left {
+    float: left;
+}
+
+#right img {
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    }
+    
+#right {
+        float: right;
+    }
+
+    h3 {
+        background-color: blue;
+        margin: 0px;
+        padding: 15px;
+    }
+
+    canvas {
+        height: 350px;
+        width: 350px;
+        border: 5px solid blue;
+        margin-top: 150px;
+        background-color: white;
+    }
